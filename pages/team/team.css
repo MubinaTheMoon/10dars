@@ -1,0 +1,98 @@
+@import "../../css/global.css";
+
+
+.main-container{
+    width: 100%;
+}
+.section-javena{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 96px 0;
+}
+.section-javena h3{
+    font-size: 36px;
+    padding-top: 48px;
+}
+.section-javena span{
+    font-size: 14px;
+    color: rgb(35, 37, 54, 0.7);
+    font-weight: 500;
+    padding: 8px 0 24px;
+}
+.section-javena p{
+    width: 505px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.javena-icons-list{
+    display: flex;
+    gap: 27px;
+    padding-top: 32px;
+}
+.javena-icon path{
+    fill: #232536;
+    opacity: .9;
+}
+
+
+.blog-section{
+    width: 100%;
+    height: 600px;
+    background-color: #ECF8F9;
+    padding: 96px 0;
+}
+.blog-section h1{
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 600;
+    padding-top: 19px;
+    padding-bottom: 48px;
+}
+.blog-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.blog-post{
+    width: 620px;
+    display: flex;
+    background-color: white;
+}
+.blog-post-text{
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+}
+.blog-post-text time{
+    font-size: 14px;
+    font-weight: 500;
+    padding-bottom: 8px;
+    color: rgb(35, 37, 54, 0.6);
+    line-height: 20px;
+}
+.blog-post-text h6{
+    line-height: 36px;      
+    font-weight: 600;
+    color: inherit;
+}
+.blog-post-text a{
+    color: #444CFC;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 24px;
+}
+.blog-post-text img{
+    padding-left: 12px;
+}
+
+
+
+
+
+
+
+
+
+

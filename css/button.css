@@ -1,0 +1,19 @@
+.btn {
+  padding: 20px 32px;
+  line-height: 24px;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+.btn-primary{
+    color: #fff;
+    background-color: #444CFC;
+    background-image: url("../img/shape.btn-bg.svg");
+    background-repeat: no-repeat;
+}
+.btn:hover{
+    opacity: 0.8;
+}
+.btn:active{
+    opacity: 0.6;
+}

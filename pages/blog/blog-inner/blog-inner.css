@@ -1,0 +1,41 @@
+@import "../../../css/global.css";
+
+.plugin{
+    padding: 96px 0;
+}
+.decor-imgs{
+    display: flex;
+    justify-content: space-between;
+}
+.plugin-container h1{
+    width: 731px;
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 600;
+    color: #232536;
+    padding: 24px 0;
+}
+.plugin-title{
+    width: 719px;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(35, 37, 54, 87%);
+    padding-bottom: 32px;
+}
+
+.extra-img{
+    margin-left: 73%;
+    transform: translateY(-8px);
+}
+.blog-post-text{
+    padding: 96px 217px;
+}
+.blog-post-text p{
+    padding-top: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Poppins";
+}
+.blog-post-text h3{
+    padding-top: 40px;
+}
