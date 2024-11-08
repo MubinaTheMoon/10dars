@@ -48,9 +48,10 @@
     margin-bottom: 96px;
 }
 .careers-container{
-    padding: 78px;
+    padding: 77px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 32px;
 }
 .career-box{
