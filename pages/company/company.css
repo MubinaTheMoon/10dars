@@ -1,1 +1,27 @@
 @import "../../css/global.css";
+
+.plugout-container h5{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: red;
+    color: rgba(0, 0, 0, 87%);
+    padding-bottom: 16px;
+}
+.plugout-container h1{
+    width: 701px;
+    padding-bottom: 24px;
+    font-size: 36px;
+    line-height: 56px;
+    font-weight: 600;
+}
+.plugout-container p{
+    width: 622px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family:inherit;
+    color: rgba(35, 37, 54, 60%);
+}

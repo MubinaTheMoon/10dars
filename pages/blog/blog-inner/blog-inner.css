@@ -22,13 +22,15 @@
     color: rgba(35, 37, 54, 87%);
     padding-bottom: 32px;
 }
-
+.plugin-main-img{
+    padding-top: 64px;
+}
 .extra-img{
     margin-left: 73%;
     transform: translateY(-8px);
 }
 .blog-post-text{
-    padding: 96px 217px;
+    padding: 0px 217px;
 }
 .blog-post-text p{
     padding-top: 24px;

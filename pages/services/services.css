@@ -106,7 +106,10 @@
 .features-left-right{
     width: 624px;
 }
-
+.grey-coloury{
+    background-color:#F9F9FF;
+    padding-bottom: 60px;
+}
 .last-feature{
     padding-top: 70px;
 }
