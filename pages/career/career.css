@@ -105,11 +105,35 @@
     font-family: inherit;
     padding-bottom: 24px;
 }
-.culture-container p{
+.culture-container-paragraph{
     width: 622px;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     color: rgba(35, 37, 54, 60%);
     padding-bottom: 64px;
+}
+.culture-grid{
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.culture-grid-box{
+    padding: 32px;
+    background-color:white;
+}
+.culture-grid-box h6{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #232536;
+}
+.culture-grid-box p{
+    width: 354px;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(35, 37, 54, 60%);
+
 }
